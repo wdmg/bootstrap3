@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap3",
+  "version": "1.0.0",
+  "description": "Bootstrap 3 Blank Template",
+  "main": "assets/js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap3",
+    "blank",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/wdmg/bootstrap3.git"
+  },
+  "author": "Alexsander Vyshnyvetskyy <alex.vyshnyvetskyy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.0",
+    "bootstrap": "3.4.1"
+  }
+}
